@@ -1,0 +1,22 @@
+$myColor: red;
+$myFont: Helvetica, sans-serif;
+$divPadding: 20px; 
+body {
+  background-image: url(data/wp5129083.jpg);
+  background-size: cover;
+}
+.WelcomeMessage {
+  font-family:$myFont;
+  font-size: 100%;
+}
+.container {
+  padding-top: $divPadding;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li {
+  display:list-item;
+}

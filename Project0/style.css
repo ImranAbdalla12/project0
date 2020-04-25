@@ -1,0 +1,25 @@
+body {
+  background-image: url(data/wp5129083.jpg);
+  background-size: cover; }
+
+.WelcomeMessage {
+  font-family: Helvetica, sans-serif;
+  font-size: 100%; }
+
+.container {
+  padding-top: 20px; }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+li {
+  display: list-item; }
+
+/*# sourceMappingURL=style.css.map */
+#TheMost{
+  font-style: Helvetica, sans-serif;
+  font-size: 20px;
+  color:red;
+}
